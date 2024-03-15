@@ -60,7 +60,7 @@ int main(void)
     char date_arry[2];
     char year_arry[5]={'2','0'};
 
-
+    ST7735_FillScreenFast(ST7735_WHITE);
 
   while (1)
   {
